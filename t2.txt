@@ -1,1 +1,1 @@
-1 First line file 2 
+1 Conflict in first line!
