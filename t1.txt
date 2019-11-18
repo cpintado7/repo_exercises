@@ -1,4 +1,5 @@
 1 First line
-2 Conflict line
 2 Second line
-3Third line
+3 Third line
+4 Conflict line
+
